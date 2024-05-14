@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h2>리액트 앱의 구조를 확인합니다.
-          <br />App.js가 자동으로 렌더링 됩니다.
+          <br />App.js가 자동으로 렌더링 됩니다
         </h2>
         <p>
           Edit <code>src/App.js</code> and save to reload.
